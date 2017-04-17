@@ -1,8 +1,8 @@
-package IntroToDP;
+package StrategyPattern;
 
-import IntroToDP.concretes.FlyWithWings;
-import IntroToDP.models.MallardDuck;
-import IntroToDP.models.PlasticDuck;
+import StrategyPattern.concretes.FlyWithWings;
+import StrategyPattern.models.MallardDuck;
+import StrategyPattern.models.PlasticDuck;
 
 /**
  * Created by khanhtc on 2/7/17.

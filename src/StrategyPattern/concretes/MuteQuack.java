@@ -1,6 +1,6 @@
-package IntroToDP.concretes;
+package StrategyPattern.concretes;
 
-import IntroToDP.interfaces.QuackBehavior;
+import StrategyPattern.interfaces.QuackBehavior;
 
 /**
  * Created by khanhtc on 2/7/17.

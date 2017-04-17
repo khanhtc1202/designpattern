@@ -1,7 +1,7 @@
-package IntroToDP.models;
+package StrategyPattern.models;
 
-import IntroToDP.interfaces.FlyBehavior;
-import IntroToDP.interfaces.QuackBehavior;
+import StrategyPattern.interfaces.FlyBehavior;
+import StrategyPattern.interfaces.QuackBehavior;
 
 /**
  * Created by khanhtc on 2/7/17.

@@ -1,8 +1,7 @@
-package IntroToDP.models;
+package StrategyPattern.models;
 
-import IntroToDP.concretes.FlyWithWings;
-import IntroToDP.concretes.Quack;
-import IntroToDP.models.Duck;
+import StrategyPattern.concretes.FlyWithWings;
+import StrategyPattern.concretes.Quack;
 
 /**
  * Created by khanhtc on 2/7/17.

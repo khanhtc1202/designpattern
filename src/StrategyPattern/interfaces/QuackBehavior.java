@@ -1,4 +1,4 @@
-package IntroToDP.interfaces;
+package StrategyPattern.interfaces;
 
 /**
  * Created by khanhtc on 2/7/17.
