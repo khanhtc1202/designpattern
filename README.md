@@ -15,8 +15,8 @@ Design Pattern List (via tutorial point)
 13. Design Patterns - Proxy Pattern (done)
 14. Chain of Responsibility Pattern
 15. Design Patterns - Command Pattern (done)
-16. Design Patterns - Interpreter Pattern (done)
-17. Design Patterns - Iterator Pattern
+16. Design Patterns - Interpreter Pattern 
+17. Design Patterns - Iterator Pattern (done)
 18. Design Patterns - Mediator Pattern
 19. Design Patterns - Memento Pattern
 20. Design Patterns - Observer Pattern (done)
