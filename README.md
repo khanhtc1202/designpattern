@@ -7,7 +7,7 @@ Design Pattern List (via tutorial point)
 5. Design Patterns - Prototype Pattern
 6. Design Patterns - Adapter Pattern (done)
 7. Design Patterns - Bridge Pattern
-8. Design Patterns - Filter Pattern
+8. Design Patterns - Filter Pattern (done)
 9. Design Patterns - Composite Pattern (done)
 10. Design Patterns - Decorator Pattern (done)
 11. Design Patterns - Facade Pattern (done)
