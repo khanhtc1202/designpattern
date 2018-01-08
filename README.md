@@ -13,7 +13,7 @@ Design Pattern List (via tutorial point)
 11. Design Patterns - Facade Pattern (done)
 12. Design Patterns - Flyweight Pattern
 13. Design Patterns - Proxy Pattern (done)
-14. Chain of Responsibility Pattern
+14. Chain of Responsibility Pattern (done)
 15. Design Patterns - Command Pattern (done)
 16. Design Patterns - Interpreter Pattern 
 17. Design Patterns - Iterator Pattern (done)
