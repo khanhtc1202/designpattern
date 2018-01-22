@@ -21,7 +21,7 @@ Design Pattern List (via tutorial point)
 19. Design Patterns - Memento Pattern (done)
 20. Design Patterns - Observer Pattern (done)
 21. Design Patterns - State Pattern (done)
-22. Design Patterns - Null Object Pattern
+22. Design Patterns - Null Object Pattern (done)
 23. Design Patterns - Strategy Pattern (done)
 24. Design Patterns - Template Pattern (done)
 25. Design Patterns - Visitor Pattern
