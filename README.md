@@ -4,7 +4,7 @@ Design Pattern List (via tutorial point)
 2. Abstract Factory Pattern (done)
 3. Design Patterns - Singleton Pattern (done)
 4. Design Patterns - Builder Pattern (done)
-5. Design Patterns - Prototype Pattern
+5. Design Patterns - Prototype Pattern (done)
 6. Design Patterns - Adapter Pattern (done)
 7. Design Patterns - Bridge Pattern
 8. Design Patterns - Filter Pattern (done)
