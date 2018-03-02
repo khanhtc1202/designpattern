@@ -5,11 +5,14 @@ import PrototypePattern.model.Shape;
 public class PrototypePatternDemo {
     public static void main(String[] args) {
         ShapeCache.loadCache();
+        Shape clonedShape;
 
-        Shape clonedShape1 = ShapeCache.getShape("1");
-        System.out.println("Cloned shape type " + clonedShape1.getType());
+        clonedShape = ShapeCache.getShape("1");
+        System.out.println("Cloned shape type " + clonedShape.getType());
+        clonedShape.draw();
 
-        Shape clonedShape2 = ShapeCache.getShape("2");
-        System.out.println("Cloned shape type " + clonedShape2.getType());
+        clonedShape = ShapeCache.getShape("2");
+        System.out.println("Cloned shape type " + clonedShape.getType());
+        clonedShape.draw();
     }
 }

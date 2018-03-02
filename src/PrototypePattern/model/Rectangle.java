@@ -6,7 +6,7 @@ public class Rectangle extends Shape {
     }
 
     @Override
-    void draw() {
+    public void draw() {
         System.out.println("In Rectangle draw() method!");
     }
 }

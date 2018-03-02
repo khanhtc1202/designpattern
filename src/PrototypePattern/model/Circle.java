@@ -6,7 +6,7 @@ public class Circle extends Shape {
     }
 
     @Override
-    void draw() {
+    public void draw() {
         System.out.println("In Circle draw() method!");
     }
 }
