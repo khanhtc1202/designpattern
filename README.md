@@ -11,7 +11,7 @@ Design Pattern List (via tutorial point)
 9. Design Patterns - Composite Pattern (done)
 10. Design Patterns - Decorator Pattern (done)
 11. Design Patterns - Facade Pattern (done)
-12. Design Patterns - Flyweight Pattern
+12. Design Patterns - Flyweight Pattern (done)
 13. Design Patterns - Proxy Pattern (done)
 14. Chain of Responsibility Pattern (done)
 15. Design Patterns - Command Pattern (done)
