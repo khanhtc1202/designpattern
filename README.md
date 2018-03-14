@@ -26,7 +26,7 @@ Design Pattern List (via tutorial point)
 24. Design Patterns - Template Pattern (done)
 25. Design Patterns - Visitor Pattern (done)
 26. Design Patterns - MVC Pattern (done)
-27. Business Delegate Pattern
+27. Business Delegate Pattern (done)
 28. Composite Entity Pattern
 29. Data Access Object Pattern (done)
 30. Front Controller Pattern
