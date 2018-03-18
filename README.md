@@ -32,4 +32,4 @@ Design Pattern List (via tutorial point)
 30. Front Controller Pattern
 31. Intercepting Filter Pattern
 32. Service Locator  Pattern
-33. Transfer Object Pattern
+33. Transfer Object Pattern (done)
