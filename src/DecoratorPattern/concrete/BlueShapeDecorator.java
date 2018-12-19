@@ -18,6 +18,6 @@ public class BlueShapeDecorator extends ShapeDecorator{
     }
 
     private void setBlueArea(Shape decoratorShape) {
-        System.out.println("Shape with Blue area!!!");
+        System.out.println("Shape color: Blue!!!");
     }
 }

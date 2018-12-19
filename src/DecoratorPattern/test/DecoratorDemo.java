@@ -3,7 +3,7 @@ package DecoratorPattern.test;
 import DecoratorPattern.concrete.BlueShapeDecorator;
 import DecoratorPattern.concrete.Circle;
 import DecoratorPattern.concrete.Rectangle;
-import DecoratorPattern.concrete.RedShapeDecorator;
+import DecoratorPattern.concrete.RedBorderDecorator;
 import DecoratorPattern.interfaces.Shape;
 
 
@@ -12,20 +12,21 @@ import DecoratorPattern.interfaces.Shape;
  */
 public class DecoratorDemo {
     public static void main(String[] args) {
-//        Shape circle = new Circle();
-//        Shape redCircle = new RedShapeDecorator(new Circle());
-//        Shape redRectangle = new RedShapeDecorator(new Rectangle());
+        Shape circle = new Circle();
+        Shape redCircle = new RedBorderDecorator(new Circle());
+        Shape redRectangle = new RedBorderDecorator(new Rectangle());
         Shape blueCircle = new BlueShapeDecorator(new Circle());
-        Shape mixCircle = new RedShapeDecorator(blueCircle);
+        Shape mixCircle = new RedBorderDecorator(blueCircle);
 
-//        System.out.println("Circle with normal border!!!");
-//        circle.draw();
-//        System.out.println("Circle with red border!!!");
-//        redCircle.draw();
-//        System.out.println("Rectangle with red border!!!");
-//        redRectangle.draw();
-//        System.out.println("Circle with blue area!!!");
-//        blueCircle.draw();
+        System.out.println("\nCircle with normal border :");
+        circle.draw();
+        System.out.println("\nCircle with red border :");
+        redCircle.draw();
+        System.out.println("\nRectangle with red border :");
+        redRectangle.draw();
+        System.out.println("\nCircle with blue area :");
+        blueCircle.draw();
+        System.out.println("\nMix circle :");
         mixCircle.draw();
     }
 }

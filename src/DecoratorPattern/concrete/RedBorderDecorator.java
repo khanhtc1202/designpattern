@@ -6,8 +6,8 @@ import DecoratorPattern.interfaces.ShapeDecorator;
 /**
  * Created by khanhtc on 4/17/17.
  */
-public class RedShapeDecorator extends ShapeDecorator {
-    public RedShapeDecorator(Shape decoratorShape) {
+public class RedBorderDecorator extends ShapeDecorator {
+    public RedBorderDecorator(Shape decoratorShape) {
         super(decoratorShape);
     }
 

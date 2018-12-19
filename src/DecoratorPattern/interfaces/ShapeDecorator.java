@@ -1,7 +1,5 @@
 package DecoratorPattern.interfaces;
 
-import DecoratorPattern.interfaces.Shape;
-
 /**
  * Created by khanhtc on 4/17/17.
  */
