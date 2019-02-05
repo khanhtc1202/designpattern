@@ -31,5 +31,5 @@ Design Pattern List (via tutorial point)
 29. Data Access Object Pattern (done)
 30. Front Controller Pattern
 31. Intercepting Filter Pattern
-32. Service Locator Pattern
+32. Service Locator Pattern (done)
 33. Transfer Object Pattern (done)
