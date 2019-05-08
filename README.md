@@ -1,4 +1,4 @@
-Design Pattern List (via tutorial point)
+Design Pattern List
 
 1. Design Patterns - Factory Pattern (done)
 2. Abstract Factory Pattern (done)
@@ -33,3 +33,5 @@ Design Pattern List (via tutorial point)
 31. Intercepting Filter Pattern (done)
 32. Service Locator Pattern (done)
 33. Transfer Object Pattern (done)
+
+Ref: [TutorialsPoint](https://www.tutorialspoint.com/design_pattern/)
