@@ -47,6 +47,7 @@ public class NutritionFacts {
     }
 
     private NutritionFacts(Builder builder) {
+        // could validate value of parameter here on copying val from builder to object instance
         servingSize = builder.servingSize;
         servings = builder.servings;
         calories = builder.calories;
